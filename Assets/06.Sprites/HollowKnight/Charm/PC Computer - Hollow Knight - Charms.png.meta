@@ -1,0 +1,1477 @@
+fileFormatVersion: 2
+guid: c5a175f9a409c5e47a349349122f91e2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1102
+        width: 295
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25856ef041e818a45ac7e5722230db68
+      internalID: 1224504069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_1
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1112
+        width: 126
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4c4e23d8431b14a95a15f52b35f575
+      internalID: -2134697732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_2
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1115
+        width: 123
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ad9869383cab1439d641767612da9b
+      internalID: -2134676896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_3
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1104
+        width: 156
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abff41b1653913f438973fc66c46b7f6
+      internalID: -1136388051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_4
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1116
+        width: 129
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bd2fd962d4c8842a0f97f7c373661b
+      internalID: -1631960484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_5
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1114
+        width: 123
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c2cf0a8ce07c24c9ef410ba516cba8
+      internalID: 689948865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_6
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1102
+        width: 149
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6314e901dc8f5694385bb0c746641a8b
+      internalID: 541466016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_7
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 1115
+        width: 124
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d947e53905d4e745b77083de9a69a36
+      internalID: 1732200408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_8
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 1110
+        width: 127
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343533286a9560046bb4ee1dd3a72085
+      internalID: -702474110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 959
+        width: 127
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216018a358568a74ba677ae7fa501d55
+      internalID: -298320569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_10
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 960
+        width: 129
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5651f0c96b02f14f971f160d246d1ed
+      internalID: -620334812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_11
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 960
+        width: 131
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7835c93c7db6a34e880b8697a779909
+      internalID: 714811201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_12
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 961
+        width: 141
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7079d90d996e05e4ea8f8ccf57b586e8
+      internalID: -246136815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_13
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 956
+        width: 127
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efcc5cb288e5394e9ff4b4709b2293c
+      internalID: 429936188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_14
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 960
+        width: 131
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631ac638918cca444a29dec48d6764c9
+      internalID: 1228381579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_15
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 953
+        width: 137
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad3d0c178355004b82c74a141b1287d
+      internalID: -642408622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_16
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 958
+        width: 134
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc11dd59206cc94e8dfa94866e31857
+      internalID: -470536861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_17
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 960
+        width: 144
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acd07c332c818040afc6e7bd4cc2dfa
+      internalID: 564087167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_18
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 958
+        width: 137
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27ab781f25396f478860ddc2c47f859
+      internalID: -1155986446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_19
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 815
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4588ee482d8ec59418c0109e06b9a745
+      internalID: 1584725363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_20
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 823
+        width: 121
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdeed126d1aff7d4da9d7a2eabba0b91
+      internalID: 756724209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_21
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 819
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5587e0868c21b24e83aa6244516f1d1
+      internalID: 1844793243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_22
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 819
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c939c245a7095c4182c9a1d8c1d2937
+      internalID: 1819845568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_23
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 818
+        width: 134
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1265420978bce8479be4bc7ba825d59
+      internalID: -966641266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_24
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 812
+        width: 138
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a9ce2aa08115e46b996ebd2ea84813
+      internalID: 776812075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_25
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 800
+        width: 141
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1b317e173051b48bbde9b312519e86
+      internalID: -351939796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_26
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 810
+        width: 135
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf27b25fb02ef8488fe0ee9506de5f7
+      internalID: -1425883683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_27
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 811
+        width: 143
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4e4b5e555c410498a0133dd62ac90b
+      internalID: -1389835256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_28
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 827
+        width: 129
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8192052511f0894a879f69f9792b396
+      internalID: -669631404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 668
+        width: 142
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5dde49e38e1524cb34d2934f3d0ce3
+      internalID: 98720630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_30
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 670
+        width: 140
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11dfc890aa85dcc42a67f48db2057cb4
+      internalID: 606088766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_31
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 671
+        width: 138
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a25446e3d87434ba6256da8d1f23ac
+      internalID: 311116970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_32
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 670
+        width: 129
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d9c60e9e7ab964a91127ebf1798070
+      internalID: -1132542198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_33
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 670
+        width: 131
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c401d03a68076dc46ad38db154ad16d4
+      internalID: 1746896865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_34
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 664
+        width: 140
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8794b693821f8994a978bf984faedf96
+      internalID: 2145173270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_35
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 654
+        width: 120
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405c6645de3b79c4fad444b70e92596c
+      internalID: 523046850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_36
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 646
+        width: 132
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4ab25e56bd6914a9cbc54f02d837f7
+      internalID: 1416785856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_37
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 646
+        width: 132
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf74590ecf9a1114dac8d0fd239272c1
+      internalID: 47338891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_38
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 667
+        width: 127
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdd859cc39952940b26d5a9bc611ebf
+      internalID: -1943680797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_39
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 535
+        width: 130
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89f6e41b4346074b9b32ebbabd369e4
+      internalID: 567493719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_40
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 529
+        width: 126
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4635e3c30590c94c940f12f682c6a6b
+      internalID: -1256654614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_41
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 374
+        width: 156
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0b568c1b3fdf249b4fee173b00678c
+      internalID: -644634293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_42
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 528
+        width: 132
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb3363d1d368e644819672581599c02
+      internalID: -299604482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_43
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 530
+        width: 136
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d372126ede05088409c712326ed0081d
+      internalID: 1813117442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_44
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 528
+        width: 126
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2d9687bb20bbd46b078a61112844cc
+      internalID: -1259885356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_45
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 525
+        width: 121
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5491761c60895843a339a7c283c78f6
+      internalID: 123635794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_46
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 518
+        width: 132
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad44e7ee6f196a44bc87e51c3adc162
+      internalID: 558976442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_47
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 518
+        width: 127
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008aee5795ea5c14ca0452c100a34c04
+      internalID: 1807934485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_48
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 520
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81eea6976d0dd094baa9c56f259bd172
+      internalID: -696455605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_49
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 378
+        width: 147
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4f95d074f716e4b8e16c37d0952243
+      internalID: -253321492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_50
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 384
+        width: 128
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9887f40f81330cc4c8cf5c7aa46fa44c
+      internalID: -91244533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_51
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 457
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f53b2f8aea5a7a4a9af977e1d7a12c4
+      internalID: 1502777580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_52
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 448
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2307de0b20e6ac45b3e8304848e192a
+      internalID: -2067141045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_53
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 451
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f786f2f3a8dde459a8b9ec40abd673
+      internalID: 560593441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_54
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d016889fc5122468a48fb9981ba70f
+      internalID: 2057259057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_55
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 422
+        width: 4
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb97865f6c265c47a232d64188b2e78
+      internalID: 212211271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_56
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 6
+        width: 232
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463c482373fdbba488974ba2e653895e
+      internalID: -1551635859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_57
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 41
+        width: 216
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127b0d8fd8fdd184abdc9f835150a205
+      internalID: 1037939655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_58
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 211
+        width: 94
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2196cbd664bc94b89951a2180e369b
+      internalID: -243452285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_59
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 214
+        width: 88
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da64c7139c84e8468843dfc775c2923
+      internalID: 71469959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Charms_60
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 212
+        width: 132
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecea0680cf28ae4e8754a717ae0e541
+      internalID: -1864554895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Hollow Knight - Charms_0: 1224504069
+      PC Computer - Hollow Knight - Charms_1: -2134697732
+      PC Computer - Hollow Knight - Charms_10: -620334812
+      PC Computer - Hollow Knight - Charms_11: 714811201
+      PC Computer - Hollow Knight - Charms_12: -246136815
+      PC Computer - Hollow Knight - Charms_13: 429936188
+      PC Computer - Hollow Knight - Charms_14: 1228381579
+      PC Computer - Hollow Knight - Charms_15: -642408622
+      PC Computer - Hollow Knight - Charms_16: -470536861
+      PC Computer - Hollow Knight - Charms_17: 564087167
+      PC Computer - Hollow Knight - Charms_18: -1155986446
+      PC Computer - Hollow Knight - Charms_19: 1584725363
+      PC Computer - Hollow Knight - Charms_2: -2134676896
+      PC Computer - Hollow Knight - Charms_20: 756724209
+      PC Computer - Hollow Knight - Charms_21: 1844793243
+      PC Computer - Hollow Knight - Charms_22: 1819845568
+      PC Computer - Hollow Knight - Charms_23: -966641266
+      PC Computer - Hollow Knight - Charms_24: 776812075
+      PC Computer - Hollow Knight - Charms_25: -351939796
+      PC Computer - Hollow Knight - Charms_26: -1425883683
+      PC Computer - Hollow Knight - Charms_27: -1389835256
+      PC Computer - Hollow Knight - Charms_28: -669631404
+      PC Computer - Hollow Knight - Charms_29: 98720630
+      PC Computer - Hollow Knight - Charms_3: -1136388051
+      PC Computer - Hollow Knight - Charms_30: 606088766
+      PC Computer - Hollow Knight - Charms_31: 311116970
+      PC Computer - Hollow Knight - Charms_32: -1132542198
+      PC Computer - Hollow Knight - Charms_33: 1746896865
+      PC Computer - Hollow Knight - Charms_34: 2145173270
+      PC Computer - Hollow Knight - Charms_35: 523046850
+      PC Computer - Hollow Knight - Charms_36: 1416785856
+      PC Computer - Hollow Knight - Charms_37: 47338891
+      PC Computer - Hollow Knight - Charms_38: -1943680797
+      PC Computer - Hollow Knight - Charms_39: 567493719
+      PC Computer - Hollow Knight - Charms_4: -1631960484
+      PC Computer - Hollow Knight - Charms_40: -1256654614
+      PC Computer - Hollow Knight - Charms_41: -644634293
+      PC Computer - Hollow Knight - Charms_42: -299604482
+      PC Computer - Hollow Knight - Charms_43: 1813117442
+      PC Computer - Hollow Knight - Charms_44: -1259885356
+      PC Computer - Hollow Knight - Charms_45: 123635794
+      PC Computer - Hollow Knight - Charms_46: 558976442
+      PC Computer - Hollow Knight - Charms_47: 1807934485
+      PC Computer - Hollow Knight - Charms_48: -696455605
+      PC Computer - Hollow Knight - Charms_49: -253321492
+      PC Computer - Hollow Knight - Charms_5: 689948865
+      PC Computer - Hollow Knight - Charms_50: -91244533
+      PC Computer - Hollow Knight - Charms_51: 1502777580
+      PC Computer - Hollow Knight - Charms_52: -2067141045
+      PC Computer - Hollow Knight - Charms_53: 560593441
+      PC Computer - Hollow Knight - Charms_54: 2057259057
+      PC Computer - Hollow Knight - Charms_55: 212211271
+      PC Computer - Hollow Knight - Charms_56: -1551635859
+      PC Computer - Hollow Knight - Charms_57: 1037939655
+      PC Computer - Hollow Knight - Charms_58: -243452285
+      PC Computer - Hollow Knight - Charms_59: 71469959
+      PC Computer - Hollow Knight - Charms_6: 541466016
+      PC Computer - Hollow Knight - Charms_60: -1864554895
+      PC Computer - Hollow Knight - Charms_7: 1732200408
+      PC Computer - Hollow Knight - Charms_8: -702474110
+      PC Computer - Hollow Knight - Charms_9: -298320569
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
