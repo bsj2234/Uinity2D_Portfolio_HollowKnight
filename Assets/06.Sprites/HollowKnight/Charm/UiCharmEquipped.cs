@@ -9,6 +9,8 @@ using UnityEngine.UI;
 //장착/해제 실행
 public class UiCharmEquipped : MonoBehaviour
 {
+    public InventoryManager inventory;
+
     public int EquipIndex = -1;
     public Sprite DefaultSprite;
     private Button _button;
@@ -26,7 +28,7 @@ public class UiCharmEquipped : MonoBehaviour
     {
         CharmInstance unequippedItem = GameManager.Instance.GetPlayer().EquipUnequipCharm(EquipIndex);
         _button.image.sprite = (unequippedItem != null) ? unequippedItem.CharmType.Icon : DefaultSprite;
-        UiManager.Instance.RefreshAll();
+        inventory.RefreshAll();
     }
 
     public void Refresh()

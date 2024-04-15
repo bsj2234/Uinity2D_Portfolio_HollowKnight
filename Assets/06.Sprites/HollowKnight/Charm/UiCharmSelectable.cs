@@ -11,6 +11,8 @@ using UnityEngine.UI;
 //이벤트 만들까
 public class UiCharmSelectable : MonoBehaviour
 {
+    public InventoryManager inventory;
+
     public int CharmIndex = -1;
     public Sprite DefaultSprite;
     private Button _button;
@@ -31,7 +33,7 @@ public class UiCharmSelectable : MonoBehaviour
     {
         //아이템 장착 성공시 null로
         GameManager.Instance.GetPlayer().TryEquipCharm(CharmIndex);
-        UiManager.Instance.RefreshAll();
+        inventory.RefreshAll();
     }
     public void Refrash()
     {
