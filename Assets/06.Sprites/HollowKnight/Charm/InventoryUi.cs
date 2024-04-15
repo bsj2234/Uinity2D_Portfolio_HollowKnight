@@ -60,4 +60,9 @@ public class InventoryUi : MonoBehaviour
     {
         _InventoryUiGameObject.SetActive(false);
     }
+
+    public void SetActive(bool v)
+    {
+        _InventoryUiGameObject.SetActive(v);
+    }
 }
