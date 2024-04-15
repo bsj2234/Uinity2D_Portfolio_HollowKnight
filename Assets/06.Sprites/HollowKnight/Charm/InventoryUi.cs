@@ -4,12 +4,13 @@ using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.Assertions;
+using UnityEngine.UI;
 
-public class InventoryManager : MonoBehaviour
+public class InventoryUi : MonoBehaviour
 {
     private UiCharmSelectable[] _selectables;
     private UiCharmEquipped[] _equppeds;
-    public GameObject InventoryUi;
+    public GameObject _InventoryUiGameObject;
     public GameObject HudUi;
 
     private void Awake()
@@ -27,6 +28,10 @@ public class InventoryManager : MonoBehaviour
     {
         foreach(UiCharmSelectable selectable in _selectables )
         {
+            if(selectable == null)
+            {
+                continue;
+            }
             if( selectable.CharmIndex != -1 )
             {
                 selectable.Refrash();
@@ -34,7 +39,11 @@ public class InventoryManager : MonoBehaviour
         }
         foreach (UiCharmEquipped equipped in _equppeds )
         {
-            if(equipped.EquipIndex != -1)
+            if (equipped == null)
+            {
+                continue;
+            }
+            if (equipped.EquipIndex != -1)
             {
                 equipped.Refresh();
 
@@ -44,11 +53,11 @@ public class InventoryManager : MonoBehaviour
 
     public void InventoryOn()
     {
-        InventoryUi.SetActive(true);
+        _InventoryUiGameObject.SetActive(true);
         RefreshAll();
     }
     public void InventoryOff()
     {
-        InventoryUi.SetActive(false);
+        _InventoryUiGameObject.SetActive(false);
     }
 }

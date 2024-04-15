@@ -11,7 +11,7 @@ using UnityEngine.UI;
 //이벤트 만들까
 public class UiCharmSelectable : MonoBehaviour
 {
-    public InventoryManager inventory;
+    public InventoryUi inventory;
 
     public int CharmIndex = -1;
     public Sprite DefaultSprite;
