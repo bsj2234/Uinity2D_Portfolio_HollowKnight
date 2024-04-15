@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.Assertions;
@@ -12,6 +13,10 @@ public class InventoryUi : MonoBehaviour
     private UiCharmEquipped[] _equppeds;
     public GameObject _InventoryUiGameObject;
     public GameObject HudUi;
+    public TMP_Text CharmDescName;
+    public TMP_Text CharmSlot;
+    public TMP_Text CharmBroken;
+    public TMP_Text CharmDesc;
 
     private void Awake()
     {
@@ -64,5 +69,13 @@ public class InventoryUi : MonoBehaviour
     public void SetActive(bool v)
     {
         _InventoryUiGameObject.SetActive(v);
+    }
+
+    public void SetDescription(CharmInstance charm)
+    {
+        CharmDescName.text = charm.CharmType.name;
+        CharmSlot.text = $"½½·Ô: {charm.CharmType.Slot}";
+        CharmBroken.text = charm.CharmType.Broken? "ÆÄ±«µÊ":"";
+        CharmDesc.text = charm.CharmType.Description;
     }
 }

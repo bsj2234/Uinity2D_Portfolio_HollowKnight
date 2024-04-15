@@ -12,7 +12,7 @@ public class UiCharmEquipped : MonoBehaviour
     public int EquipIndex = -1;
     public Sprite DefaultSprite;
     private Button _button;
-
+    private CharmInstance unequippedItem;
     private void Awake()
     {
         _button = GetComponent<Button>();
@@ -24,16 +24,24 @@ public class UiCharmEquipped : MonoBehaviour
     //버튼을 눌렀을떄 부적이 있으면 장착을 해제한다
     public void DoEquipUnequip()
     {
-        CharmInstance unequippedItem = GameManager.Instance.GetPlayer().EquipUnequipCharm(EquipIndex);
+        unequippedItem = GameManager.Instance.GetPlayer().EquipUnequipCharm(EquipIndex);
         _button.image.sprite = (unequippedItem != null) ? unequippedItem.CharmType.Icon : DefaultSprite;
         UiManager.Instance.inventoryUi.RefreshAll();
     }
 
     public void Refresh()
     {
-        CharmInstance unequippedItem = GameManager.Instance.GetPlayer().EquppedCharmAt(EquipIndex);
+        unequippedItem = GameManager.Instance.GetPlayer().EquppedCharmAt(EquipIndex);
         _button.image.sprite = (unequippedItem != null) ? unequippedItem.CharmType.Icon : DefaultSprite;
 
     }
 
+    public void OnMouseEnter()
+    {
+        unequippedItem = GameManager.Instance.GetPlayer().EquppedCharmAt(EquipIndex);
+        if ( unequippedItem != null )
+        {
+            UiManager.Instance.inventoryUi.SetDescription(unequippedItem);
+        }
+    }
 }

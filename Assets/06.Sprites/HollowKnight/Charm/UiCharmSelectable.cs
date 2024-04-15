@@ -16,6 +16,7 @@ public class UiCharmSelectable : MonoBehaviour
     public int CharmIndex = -1;
     public Sprite DefaultSprite;
     private Button _button;
+    private CharmInstance currentCharm;
 
     private void Awake()
     {
@@ -37,9 +38,17 @@ public class UiCharmSelectable : MonoBehaviour
     }
     public void Refrash()
     {
-        CharmInstance currentCharm = GameManager.Instance.GetPlayer().CharmAt(CharmIndex);
+        currentCharm = GameManager.Instance.GetPlayer().CharmAt(CharmIndex);
         bool isEquipped = GameManager.Instance.GetPlayer().IsItemEquipped(currentCharm);
         _button.image.sprite = (currentCharm != null && !isEquipped) ? currentCharm.CharmType.Icon : DefaultSprite;
     }
 
+    public void OnMouseEnter()
+    {
+        currentCharm = GameManager.Instance.GetPlayer().CharmAt(CharmIndex);
+        if(currentCharm != null )
+        {
+            UiManager.Instance.inventoryUi.SetDescription(currentCharm);
+        }
+    }
 }
