@@ -84,7 +84,7 @@ public class Destructable : MonoBehaviour, IDestructible
                 //이펙트 스폰
                 foreach (GameObject effect in Effects)
                 {
-                    ObjectSpawnManager.Instance.SpawnBetween(effect ,collision.transform.position, transform.position);
+                    ObjectSpawnManager.Instance.SpawnBetween(effect ,collision.transform.position, transform.position, 3f);
                 }
             }
         }
