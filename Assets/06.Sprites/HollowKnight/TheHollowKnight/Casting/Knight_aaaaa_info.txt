@@ -1,0 +1,13 @@
+version: 2
+type: animation
+name: Fireball1 Cast
+consistent_sprite_size: true
+enable_borders: false
+use_sprite_name: false
+sprites: 6
+0	Fireball1 Cast_000.png
+1	Fireball1 Cast_001.png
+2	Fireball1 Cast_002.png
+3	Fireball1 Cast_003.png
+4	Fireball1 Cast_004.png
+5	Fireball1 Cast_005.png
