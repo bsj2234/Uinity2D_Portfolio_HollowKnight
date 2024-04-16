@@ -32,7 +32,7 @@ public class Destructable : MonoBehaviour, IDestructible
     }
     public void Destruct()
     {
-        ObjectSpawnManager.Instance.SpawnMoney(transform.position, CoinSpawn);
+        ObjectSpawnManager.Instance.SpawnMoney(transform.position + Vector3.up * .4f, CoinSpawn);
         if (_animator != null)
         {
             _animator.SetTrigger("Dead");
