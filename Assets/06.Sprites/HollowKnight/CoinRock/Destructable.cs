@@ -54,7 +54,6 @@ public class Destructable : MonoBehaviour, IDestructible
         }
 
     }
-
     private void OnTriggerEnter2D(Collider2D collision)
     {
         //ÆÄ±«
@@ -77,7 +76,7 @@ public class Destructable : MonoBehaviour, IDestructible
                     Hit();
                 }
                 //ÆÄ±« Ã³¸®
-                if (_currentHit > destructHit)
+                if (_currentHit >= destructHit)
                 {
                     Destruct();
                 }
